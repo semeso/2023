@@ -1,7 +1,7 @@
 ---
-permalink: /search/
+permalink: /organizacao/
 layout: page
-title: "Search"
+title: "Organização"
 sitemap: false
 ---
 

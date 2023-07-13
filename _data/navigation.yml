@@ -1,9 +1,21 @@
-- title: Start
+- title: Início
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Programacao
+  url: "/programacao/"
+  side: left
+
+- title: Palestras
+  url: "/palestras/"
+  side: left
+
+- title: Minicursos
+  url: "/minicursos/"
+  side: left
+
+- title: "Organização"
+  url: "/organizacao/"
   side: left
 
 - title: "Templates"
@@ -69,7 +81,7 @@
 - title: "Search"
   url: "/search/"
   side: right
-
-- title: "Contact"
-  url: "/contact/"
+  
+- title: "Contato"
+  url: "/contato/"
   side: right
