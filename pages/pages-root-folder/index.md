@@ -6,7 +6,7 @@
 # 
 # O layout frontpage faz o ultimo arquivo de _posts aparecer na pagina inicial
 #
-layout: page
+layout: page-fullwidth
 title: "SEMESO 2023"
 header:
   image_fullwidth: header_unsplash_12.jpg
