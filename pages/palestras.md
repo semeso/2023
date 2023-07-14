@@ -5,7 +5,8 @@ meta_title: "SEMESO 2023"
 subheadline: "SEMESO 2023"
 teaser: "X Seminário de Engenharia de Software"
 header:
-   image_fullwidth: "header_unsplash_7.jpg"
+   image_fullwidth: "dom-fou-YRMWVcdyhmI-unsplashsmall.jpg"
+   title: "SEMESO 2023"
 permalink: "/palestras/"
 ---
 

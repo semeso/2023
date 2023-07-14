@@ -9,7 +9,8 @@
 layout: page-fullwidth
 title: "SEMESO 2023"
 header:
-   image_fullwidth: "header_unsplash_4.jpg"
+   image_fullwidth: "clement-helardot-95YRwf6CNw8-unsplashsmall.jpg"
+   title: "SEMESO 2023"
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

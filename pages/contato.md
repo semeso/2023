@@ -1,9 +1,18 @@
 ---
-layout              : page
+layout              : page-fullwidth
 title               : "Contato"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+meta_title          : "SEMESO 2023"
+subheadline         : "SEMESO 2023"
+teaser              : "X Seminário de Engenharia de Software"
 permalink           : "/contato/"
+header:
+   image_fullwidth: "marc-mintel-Q-ioK6NPFos-unsplashsmall.jpg"
+   title: "SEMESO 2023"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+Para entrar em contato, escreva um e-mail para `engsoftware.ceavi@udesc.br` ou através de nossas mídias sociais. 
+
+- Instagram: `@udesc.engsoftware`
+- YouTube: `@udesc.engsoftware`
+- Linkedin: `udesc-engsoftware`
+- Github: `udesc-engsoftware`
+
