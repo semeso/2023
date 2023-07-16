@@ -9,6 +9,7 @@ header:
    title: "SEMESO 2023"
 permalink: "/programacao/"
 ---
+{% include alert warning='Programação preliminar, sujeita a alterações.' %}
 
 ## 27/09/2023
 ### Minicursos
