@@ -10,20 +10,60 @@ header:
 permalink: "/minicursos/"
 ---
 
-## 27/09/2023
-
-## 28/09/2023
-
-<!-- First Ideas and scribbles at the beach in [Bergen/Netherlands][6]. -->
+{% include alert warning='Programação preliminar, sujeita a alterações.' %}
 
 
-<!--  [1]: {{ site.url }}/blog/
- [2]: {{ site.url }}/blog/archive/
- [3]: http://foundation.zurb.com/docs/components/accordion.html
- [4]: {{ site.url }}/design/gallery/
- [5]: {{ site.url }}/design/video/
- [6]: https://www.google.de/maps/place/Strandpaviljoen+Joep+B.V./@51.9960733,5.830135,6z/data=!4m2!3m1!1s0x47cf5918df69093b:0x7c11ab31102c1c8a
- [7]: fontcustom.com
- [8]: https://www.tawk.to
- [9]: https://github.com/jjamor
- [10]: # -->
+
+<div class="row t30" id="minicurso_a"></div>
+
+# Data Science com R
+
+### [Paolo Moser][1] (UDESC)
+<img class="img-responsive" src="{{site.urlimg}}paolo_moser.jpg"/>
+
+
+##### Data:
+a definir
+
+##### Horário:
+13:30 às 18:00.
+
+##### Local:
+a definir.
+
+##### Conteúdo: 
+Estatística descritiva: manipulação de estruturas de dados, tabulação, gráficos, medidas e resumo e análise exploratória de dados; estatística inferencial: intervalos de confiança, testes de hipóteses e análise de regressão; Estatística multivariada e preditiva: análise de componentes principais e técnicas de machine learning (Random Forest, k-NN); Manipulação de objetos e gerenciamento de memória no R.''
+
+{% include alert alert='<strong>Pre-requisito</strong>: Ter cursado ou estar cursando disciplina de probabilidade e estatística.' %}
+
+
+##### Sobre o ministrante:
+Professor de matemática e estatística na Universidade do Estado de Santa Catarina (UDESC).
+
+<hr>
+<div class="row t30" id="minicurso_b"></div>
+
+# Título
+
+### [Ministrante][2] (Instituição)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+
+##### Data:
+a definir
+
+##### Horário:
+a definir
+
+##### Local:
+a definir.
+
+##### Conteúdo: 
+a definir
+
+##### Sobre o ministrante:
+a definir
+
+
+[1]: http://www.linkedin.com
+[2]: https://semeso.github.io

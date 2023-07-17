@@ -11,24 +11,82 @@ permalink: "/programacao/"
 ---
 {% include alert warning='Programação preliminar, sujeita a alterações.' %}
 
-## 27/09/2023
-### Minicursos
-### Palestras
+# 27/09/2023
 
-## 28/09/2023
-### Minicursos
-### Palestras
+##### 13:30 - 18:00
+###### Minicurso: [Data Science com R][mca]
+###### Local: a definir
+<hr>
 
-<!-- First Ideas and scribbles at the beach in [Bergen/Netherlands][6]. -->
+##### 13:30 - 18:00
+###### Minicurso: [a definir][mcb]
+###### Local: a definir
+<hr>
+
+##### 18:00 - 18:45
+###### Intervalo
+<hr>
+
+##### 18:45 - 19:00
+###### Credenciamento
+###### Auditório do IFC
+<hr>
+
+##### 19:00 - 20:15
+###### Palestra: [a definir][pla]
+###### Auditório do IFC
+<hr>
+
+##### 20:15 - 20:45
+###### Intervalo
+<hr>
+
+##### 20:45- 22:00
+###### [Painel com Egressos de Engenharia de Software][plb]
+###### Auditório do IFC
+<hr>
 
 
-<!--  [1]: {{ site.url }}/blog/
- [2]: {{ site.url }}/blog/archive/
- [3]: http://foundation.zurb.com/docs/components/accordion.html
- [4]: {{ site.url }}/design/gallery/
- [5]: {{ site.url }}/design/video/
- [6]: https://www.google.de/maps/place/Strandpaviljoen+Joep+B.V./@51.9960733,5.830135,6z/data=!4m2!3m1!1s0x47cf5918df69093b:0x7c11ab31102c1c8a
- [7]: fontcustom.com
- [8]: https://www.tawk.to
- [9]: https://github.com/jjamor
- [10]: # -->
+# 28/09/2023
+
+
+##### 13:30 - 18:00
+###### Minicurso: [a definir][mcc]
+###### Local: a definir
+<hr>
+
+##### 13:30 - 18:00
+###### Minicurso: [a definir][mcd]
+###### Local: a definir
+<hr>
+
+##### 18:00 - 19:00
+###### Intervalo
+<hr>
+
+##### 19:00 - 20:15
+###### Palestra: [a definir][plc]
+###### Auditório do IFC
+<hr>
+
+##### 20:15 - 20:45
+###### Intervalo
+<hr>
+
+##### 20:45- 22:00
+###### Palestra [a definir][pld]
+###### Auditório do IFC
+<hr>
+
+
+<!-- links dos minicursos -->
+ [mca]: {{ site.url }}/minicursos/#minicurso_a
+ [mcb]: {{ site.url }}/minicursos/#minicurso_b
+ [mcc]: {{ site.url }}/minicursos/#minicurso_c
+ [mcd]: {{ site.url }}/minicursos/#minicurso_d
+<!-- links das palestras -->
+ [pla]: {{ site.url }}/palestras/#palestra_a
+ [plb]: {{ site.url }}/palestras/#palestra_b
+ [plc]: {{ site.url }}/palestras/#palestra_c
+ [pld]: {{ site.url }}/palestras/#palestra_d
+ 

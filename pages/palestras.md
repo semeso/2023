@@ -10,20 +10,122 @@ header:
 permalink: "/palestras/"
 ---
 
-## 27/09/2023
-
-## 28/09/2023
-
-<!-- First Ideas and scribbles at the beach in [Bergen/Netherlands][6]. -->
+{% include alert warning='Programação preliminar, sujeita a alterações.' %}
 
 
-<!--  [1]: {{ site.url }}/blog/
- [2]: {{ site.url }}/blog/archive/
- [3]: http://foundation.zurb.com/docs/components/accordion.html
- [4]: {{ site.url }}/design/gallery/
- [5]: {{ site.url }}/design/video/
- [6]: https://www.google.de/maps/place/Strandpaviljoen+Joep+B.V./@51.9960733,5.830135,6z/data=!4m2!3m1!1s0x47cf5918df69093b:0x7c11ab31102c1c8a
- [7]: fontcustom.com
- [8]: https://www.tawk.to
- [9]: https://github.com/jjamor
- [10]: # -->
+<div class="row t30" id="palestra_a"></div>
+
+# Título
+
+### [Palestrante][1] (Instituição)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+
+##### Data:
+27/09/2023
+
+##### Horário:
+19:00 - 20:15
+
+##### Local:
+Auditório do IFC Ibirama.
+
+##### Conteúdo: 
+a definir
+
+##### Sobre o palestrante:
+a definir
+
+
+<hr>
+<div class="row t30" id="palestra_b"></div>
+
+# Painel com Egressos de Engenharia de Software da UDESC
+
+### [Painelista 1][2] (Instituição)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+
+### [Painelista 2][3] (Instituição)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+### [Painelista 3][4] (Instituição)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+
+##### Data:
+27/09/2023
+
+##### Horário:
+20:45 - 22:00
+
+##### Local:
+Auditório do IFC Ibirama.
+
+##### Conteúdo: 
+Bate papo com egressos de Engenharia de Software da UDESC sobre a carreira, oportunidades, dificuldades, e dicas para os atuais alunos.
+
+
+##### Sobre o painelista 1:
+
+a definir
+
+
+<hr>
+<div class="row t30" id="palestra_c"></div>
+
+# Título
+
+### [Palestrante][1] (Instituição)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+
+##### Data:
+28/09/2023
+
+##### Horário:
+19:00 - 20:15
+
+##### Local:
+Auditório do IFC Ibirama.
+
+##### Conteúdo: 
+a definir
+
+##### Sobre o palestrante:
+a definir
+
+
+<hr>
+<div class="row t30" id="palestra_d"></div>
+
+# Título
+
+### [Palestrante][1] (Instituição)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+
+##### Data:
+27/09/2023
+
+##### Horário:
+20:45 - 22:00
+
+##### Local:
+Auditório do IFC Ibirama.
+
+##### Conteúdo: 
+a definir
+
+##### Sobre o palestrante:
+a definir
+
+
+<hr>
+
+
+[1]: https://semeso.github.io
+[2]: https://semeso.github.io
+[3]: https://semeso.github.io
+[4]: https://semeso.github.io
+[5]: https://semeso.github.io
