@@ -1,6 +1,9 @@
 
 ### X Seminário de Engenharia de Software 
 
+#### 27 e 28 de setembro de 2023
+
+##### UDESC Alto Vale - Ibirama - SC
 &nbsp;
 
 O Seminário de Engenharia de Software (SEMESO) é um evento promovido pelo Departamento de Engenharia de Software da UDESC. Seu objetivo é oferecer o intercâmbio de conhecimentos entre profissionais e acadêmicos por meio de palestras e minicursos. É destinado a engenheiros de software, programadores, administradores de sistemas, técnicos em informática, empreendedores, educadores, professores e alunos. O evento também atua como semana acadêmica do curso de Bacharelado em Engenharia de Software.

@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Programação"
 meta_title: "SEMESO 2023"
-subheadline: "SEMESO 2023"
+subheadline: "SEMESO 2023 - 27 e 28/9 - UDESC Alto Vale"
 teaser: "X Seminário de Engenharia de Software"
 header:
    image_fullwidth: "caspar-camille-rubin-fPkvU7RDmCo-unsplashsmall.jpg"
