@@ -2,16 +2,45 @@
 layout: page-fullwidth
 title: "Programação"
 meta_title: "SEMESO 2023"
-subheadline: "SEMESO 2023 - 27 e 28/9 - UDESC Alto Vale"
+subheadline: "SEMESO 2023 - 25 a 28/9 - UDESC Alto Vale"
 teaser: "X Seminário de Engenharia de Software"
 header:
    image_fullwidth: "caspar-camille-rubin-fPkvU7RDmCo-unsplashsmall.jpg"
    title: "SEMESO 2023"
 permalink: "/programacao/"
 ---
-{% include alert warning='Programação preliminar, sujeita a alterações.' %}
+{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %}
 
-# 27/09/2023
+# 25/9 (segunda-feira)
+##### Atividades realizadas em conjunto com o [SEPEX][sepex]
+
+##### Horário: a definir
+###### Atividade: a definir
+###### Local: a definir
+<hr>
+
+##### Horário: a definir
+###### Atividade: a definir
+###### Local: a definir
+<hr>
+
+
+# 26/9 (terça-feira)
+##### Atividades realizadas em conjunto com o [SEPEX][sepex]
+
+##### Horário: a definir
+###### Atividade: a definir
+###### Local: a definir
+<hr>
+
+##### Horário: a definir
+###### Atividade: a definir
+###### Local: a definir
+<hr>
+
+
+# 27/9 (quarta-feira)
+##### Atividades do SEMESO
 
 ##### 13:30 - 18:00
 ###### Minicurso: [Data Science com R][mca]
@@ -47,7 +76,7 @@ permalink: "/programacao/"
 <hr>
 
 
-# 28/09/2023
+# 28/9 (quinta-feira)
 
 
 ##### 13:30 - 18:00
@@ -77,8 +106,18 @@ permalink: "/programacao/"
 ###### Palestra [a definir][pld]
 ###### Auditório do IFC
 <hr>
+<!-- 
+# 29/9 (sexta-feira)
+##### Atividades realizadas em conjunto com o [SEPEX][sepex]
+
+##### Horário: a definir
+###### Atividade: a definir
+###### Local: a definir
+<hr> -->
 
 
+
+[sepex]: https://www.udesc.br/ceavi/sepex
 <!-- links dos minicursos -->
  [mca]: {{ site.url }}/minicursos/#minicurso_a
  [mcb]: {{ site.url }}/minicursos/#minicurso_b
