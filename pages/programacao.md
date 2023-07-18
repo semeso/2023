@@ -77,7 +77,7 @@ permalink: "/programacao/"
 
 
 # 28/9 (quinta-feira)
-
+##### Atividades do SEMESO
 
 ##### 13:30 - 18:00
 ###### Minicurso: [a definir][mcc]
