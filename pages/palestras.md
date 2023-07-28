@@ -55,9 +55,9 @@ Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDES
     <p>Cientista de Dados</p>    
   </div>
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
-    <h4><a href="https:semeso.github.io">a definir</a></h4>
-    <p>a definir</p>
+    <img class="img-responsive" src="{{site.urlimg}}foto-fernando-borguesan.png"/>
+    <h4><a href="https://www.linkedin.com/in/fernando-borguesan">Fernando Borguesan</a></h4>
+    <p> Senior Product Manager Itaú Unibanco</p>
   </div>
 </div>
 

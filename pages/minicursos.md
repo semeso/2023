@@ -39,6 +39,55 @@ a definir.
 
 Professor de matemática e estatística na Universidade do Estado de Santa Catarina (UDESC).
 
+
+<hr>
+<div class="row t30" id="minicurso_b"></div>
+
+# Título a definir
+
+conteúdo a definir
+
+##### Data:
+a definir
+
+##### Horário:
+13:30 às 18:00
+
+##### Local:
+a definir
+
+##### Ministrante:
+
+###### [Felipe Lana Machado][flm] ()
+<img class="img-responsive" src="{{site.urlimg}}foto-felipe-lana.jpg"/>
+
+_Machine Learning Engineer_, _Data Scientist_, _MLOps_.
+
+
+<hr>
+<div class="row t30" id="minicurso_b"></div>
+
+# Título a definir
+
+conteúdo a definir
+
+##### Data:
+27/9
+
+##### Horário:
+13:30 às 18:00
+
+##### Local:
+a definir.
+
+##### Ministrante:
+
+###### [Fernando Borguesan][fb] (@HOLE.TI e Itaú Unibanco)
+<img class="img-responsive" src="{{site.urlimg}}foto-fernando-borguesan.png"/>
+
+_Co-founder_ @HOLE.TI, _Senior Product Manager_ no Itaú Unibanco,  _Software Engineer_, _Agile Specialist_.
+
+
 <hr>
 <div class="row t30" id="minicurso_b"></div>
 
@@ -63,5 +112,7 @@ a definir.
 descrição do ministrante
 
 
+
 [1]: http://lattes.cnpq.br/2530478080816147
-[2]: https://semeso.github.io
+[flm]: https://www.linkedin.com/in/felipelanamachado
+[fb]: https://www.linkedin.com/in/fernando-borguesan
