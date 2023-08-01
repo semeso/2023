@@ -18,7 +18,7 @@ permalink: "/minicursos/"
 
 Estatística descritiva: manipulação de estruturas de dados, tabulação, gráficos, medidas e resumo e análise exploratória de dados; estatística inferencial: intervalos de confiança, testes de hipóteses e análise de regressão; Estatística multivariada e preditiva: análise de componentes principais e técnicas de machine learning (Random Forest, k-NN); Manipulação de objetos e gerenciamento de memória no R.
 
-{% include alert alert='<strong>Pre-requisito</strong>: Ter cursado ou estar cursando disciplina de probabilidade e estatística.' %}
+{% include alert alert='<strong>Pre-requisito</strong>: ter cursado ou estar cursando disciplina de probabilidade e estatística.' %}
 
 
 ##### Data:
@@ -43,9 +43,11 @@ Professor de matemática e estatística na Universidade do Estado de Santa Catar
 <hr>
 <div class="row t30" id="minicurso_b"></div>
 
-# Título a definir
+# Data Science no Mundo das Criptomoedas: da Blockchain ao MLOps
 
-conteúdo a definir
+Neste curso, conduziremos você por uma jornada empolgante, desde a captação e processamento de dados da blockchain, passando pela construção de recursos complexos, até a implementação de modelos de aprendizado de máquina com práticas de MLOps.
+
+{% include alert alert='<strong>Pre-requisito</strong>: ter conhecimento de lógica de programação.' %}
 
 ##### Data:
 a definir

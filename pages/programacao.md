@@ -14,70 +14,34 @@ permalink: "/programacao/"
 # 25/9 (segunda-feira)
 ##### Atividades realizadas em conjunto com o [SEPEX][sepex]
 
-##### Horário: a definir
-###### Atividade: a definir
-###### Local: a definir
+##### Horário: 19:90 - 20:30
+###### Atividade: Show Cultural Teatro
+###### Local: [Sociedade Desportiva União][sdu]
 <hr>
 
-##### Horário: a definir
-###### Atividade: a definir
-###### Local: a definir
+##### Horário: 21:00 - 22:00
+###### Atividade: Palestra
+###### Local: [Sociedade Desportiva União][sdu]
 <hr>
 
 
 # 26/9 (terça-feira)
 ##### Atividades realizadas em conjunto com o [SEPEX][sepex]
 
-##### Horário: a definir
-###### Atividade: a definir
-###### Local: a definir
+##### Horário: 08:00 - 18:00
+###### Atividade: Exposição de Projetos
+###### Local: [UDESC Alto Vale][ceavi]
 <hr>
 
-##### Horário: a definir
-###### Atividade: a definir
-###### Local: a definir
+##### Horário: 18:00 - 22:00
+###### Atividade: Seminário de Iniciação Científica (SIC)
+###### Local: [UDESC Alto Vale][ceavi]
 <hr>
 
 
 # 27/9 (quarta-feira)
 ##### Atividades do SEMESO
 
-##### 13:30 - 18:00
-###### Minicurso: [Data Science com R][mca]
-###### Local: a definir
-<hr>
-
-##### 13:30 - 18:00
-###### Minicurso: [a definir][mcb]
-###### Local: a definir
-<hr>
-
-##### 18:00 - 18:45
-###### Intervalo
-<hr>
-
-##### 18:45 - 19:00
-###### Credenciamento
-###### Auditório do IFC
-<hr>
-
-##### 19:00 - 20:15
-###### Palestra: [a definir][pla]
-###### Auditório do IFC
-<hr>
-
-##### 20:15 - 20:45
-###### Intervalo
-<hr>
-
-##### 20:45- 22:00
-###### [Painel com Egressos de Engenharia de Software][plb]
-###### Auditório do IFC
-<hr>
-
-
-# 28/9 (quinta-feira)
-##### Atividades do SEMESO
 
 ##### 13:30 - 18:00
 ###### Minicurso: [a definir][mcc]
@@ -89,13 +53,51 @@ permalink: "/programacao/"
 ###### Local: a definir
 <hr>
 
+
+##### 18:00 - 18:45
+###### Intervalo
+<hr>
+
+##### 18:45 - 19:00
+###### Credenciamento
+###### Auditório do [IFC][ifc]
+<hr>
+
+##### 19:00 - 20:15
+###### Palestra: [a definir][pla]
+###### Auditório do [IFC][ifc]
+<hr>
+
+##### 20:15 - 20:45
+###### Intervalo
+<hr>
+
+##### 20:45- 22:00
+###### [Painel com Egressos de Engenharia de Software][plb]
+###### Auditório do [IFC][ifc]
+<hr>
+
+
+# 28/9 (quinta-feira)
+##### Atividades do SEMESO
+
+##### 13:30 - 18:00
+###### Minicurso: [Data Science com R][mca]
+###### Local: a definir
+<hr>
+
+##### 13:30 - 18:00
+###### Minicurso: [Data Science no Mundo das Criptomoedas: da Blockchain ao MLOps][mcb]
+###### Local: a definir
+<hr>
+
 ##### 18:00 - 19:00
 ###### Intervalo
 <hr>
 
 ##### 19:00 - 20:15
 ###### Palestra: [a definir][plc]
-###### Auditório do IFC
+###### Auditório da [UDESC Alto Vale][ceavi]
 <hr>
 
 ##### 20:15 - 20:45
@@ -104,7 +106,7 @@ permalink: "/programacao/"
 
 ##### 20:45- 22:00
 ###### Palestra [a definir][pld]
-###### Auditório do IFC
+###### Auditório da [UDESC Alto Vale][ceavi]
 <hr>
 <!-- 
 # 29/9 (sexta-feira)
@@ -118,6 +120,9 @@ permalink: "/programacao/"
 
 
 [sepex]: https://www.udesc.br/ceavi/sepex
+[sdu]: https://goo.gl/maps/gXFBRgXUzemKz5EN9
+[ceavi]: https://goo.gl/maps/SxDUc5Tw4X2HUoNQ9
+[ifc]: https://goo.gl/maps/oL7FKLM7q1NbxwDW6
 <!-- links dos minicursos -->
  [mca]: {{ site.url }}/minicursos/#minicurso_a
  [mcb]: {{ site.url }}/minicursos/#minicurso_b
