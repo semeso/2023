@@ -14,7 +14,7 @@ permalink: "/programacao/"
 # 25/9 (segunda-feira)
 ##### Atividades realizadas em conjunto com o [SEPEX][sepex]
 
-##### Horário: 19:90 - 20:30
+##### Horário: 19:30 - 20:30
 ###### Atividade: Show Cultural Teatro
 ###### Local: [Sociedade Desportiva União][sdu]
 <hr>
