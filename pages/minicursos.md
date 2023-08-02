@@ -14,64 +14,9 @@ permalink: "/minicursos/"
 
 <div class="row t30" id="minicurso_a"></div>
 
-## Data Science com R
+# Scrum na Prática
 
-Estatística descritiva: manipulação de estruturas de dados, tabulação, gráficos, medidas e resumo e análise exploratória de dados; estatística inferencial: intervalos de confiança, testes de hipóteses e análise de regressão; Estatística multivariada e preditiva: análise de componentes principais e técnicas de machine learning (Random Forest, k-NN); Manipulação de objetos e gerenciamento de memória no R.
-
-{% include alert alert='<strong>Pre-requisito</strong>: ter cursado ou estar cursando disciplina de probabilidade e estatística.' %}
-
-
-##### Data:
-a definir
-
-##### Horário:
-13:30 às 18:00.
-
-##### Local:
-a definir.
-
-
-##### Ministrante:
-
-###### [Paolo Moser][1] (UDESC)
-
-<img class="img-responsive" src="{{site.urlimg}}paolo_moser.jpg"/>
-
-Professor de matemática e estatística na Universidade do Estado de Santa Catarina (UDESC).
-
-
-<hr>
-<div class="row t30" id="minicurso_b"></div>
-
-# Data Science no Mundo das Criptomoedas: da Blockchain ao MLOps
-
-Neste curso, conduziremos você por uma jornada empolgante, desde a captação e processamento de dados da blockchain, passando pela construção de recursos complexos, até a implementação de modelos de aprendizado de máquina com práticas de MLOps.
-
-{% include alert alert='<strong>Pre-requisito</strong>: ter conhecimento de lógica de programação.' %}
-
-##### Data:
-a definir
-
-##### Horário:
-13:30 às 18:00
-
-##### Local:
-a definir
-
-##### Ministrante:
-
-###### [Felipe Lana Machado][flm] ()
-<img class="img-responsive" src="{{site.urlimg}}foto-felipe-lana.jpg"/>
-
-_Machine Learning Engineer_, _Data Scientist_, _MLOps_.
-
-
-<hr>
-<div class="row t30" id="minicurso_b"></div>
-
-# Título a definir
-
-conteúdo a definir
+Descubra como o framework Scrum é utilizado para maximizar resultados, reduzir falhas e diminuir custos no desenvolvimento de software. Você participará de uma experiência imersiva, onde fará parte de um time Scrum, aprendo na prática os conceitos, papéis e responsabilidades e todo workflow do framework. Essa é uma oportunidade pra você vivenciar na prática como funciona um time Scrum e chegar o mais próximo possível de uma visão realista do mercado de trabalho.
 
 ##### Data:
 27/9
@@ -113,8 +58,61 @@ a definir.
 
 descrição do ministrante
 
+<hr>
+<div class="row t30" id="minicurso_c"></div>
+
+## Data Science com R
+
+Estatística descritiva: manipulação de estruturas de dados, tabulação, gráficos, medidas e resumo e análise exploratória de dados; estatística inferencial: intervalos de confiança, testes de hipóteses e análise de regressão; Estatística multivariada e preditiva: análise de componentes principais e técnicas de machine learning (Random Forest, k-NN); Manipulação de objetos e gerenciamento de memória no R.
+
+{% include alert alert='<strong>Pre-requisito</strong>: ter cursado ou estar cursando disciplina de probabilidade e estatística.' %}
 
 
-[1]: http://lattes.cnpq.br/2530478080816147
+##### Data:
+a definir
+
+##### Horário:
+13:30 às 18:00.
+
+##### Local:
+a definir.
+
+
+##### Ministrante:
+
+###### [Paolo Moser][pm] (UDESC)
+
+<img class="img-responsive" src="{{site.urlimg}}paolo_moser.jpg"/>
+
+Professor de matemática e estatística na Universidade do Estado de Santa Catarina (UDESC).
+
+
+<hr>
+<div class="row t30" id="minicurso_d"></div>
+
+# Data Science no Mundo das Criptomoedas: da Blockchain ao MLOps
+
+Neste curso, conduziremos você por uma jornada empolgante, desde a captação e processamento de dados da blockchain, passando pela construção de recursos complexos, até a implementação de modelos de aprendizado de máquina com práticas de MLOps.
+
+{% include alert alert='<strong>Pre-requisito</strong>: ter conhecimento de lógica de programação.' %}
+
+##### Data:
+a definir
+
+##### Horário:
+13:30 às 18:00
+
+##### Local:
+a definir
+
+##### Ministrante:
+
+###### [Felipe Lana Machado][flm] ()
+<img class="img-responsive" src="{{site.urlimg}}foto-felipe-lana.jpg"/>
+
+_Machine Learning Engineer_, _Data Scientist_, _MLOps_.
+
+
+[pm]: http://lattes.cnpq.br/2530478080816147
 [flm]: https://www.linkedin.com/in/felipelanamachado
 [fb]: https://www.linkedin.com/in/fernando-borguesan

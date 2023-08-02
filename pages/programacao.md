@@ -44,12 +44,12 @@ permalink: "/programacao/"
 
 
 ##### 13:30 - 18:00
-###### Minicurso: [a definir][mcc]
+###### Minicurso: [Scrum na Prática][mca]
 ###### Local: a definir
 <hr>
 
 ##### 13:30 - 18:00
-###### Minicurso: [a definir][mcd]
+###### Minicurso: [a definir][mcb]
 ###### Local: a definir
 <hr>
 
@@ -82,12 +82,12 @@ permalink: "/programacao/"
 ##### Atividades do SEMESO
 
 ##### 13:30 - 18:00
-###### Minicurso: [Data Science com R][mca]
+###### Minicurso: [Data Science com R][mcc]
 ###### Local: a definir
 <hr>
 
 ##### 13:30 - 18:00
-###### Minicurso: [Data Science no Mundo das Criptomoedas: da Blockchain ao MLOps][mcb]
+###### Minicurso: [Data Science no Mundo das Criptomoedas: da Blockchain ao MLOps][mcd]
 ###### Local: a definir
 <hr>
 
