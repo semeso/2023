@@ -49,22 +49,22 @@ permalink: "/programacao/"
 <hr>
 
 ##### 13:30 - 18:00
-###### Minicurso: [a definir][mcb]
+###### Minicurso: [Criando um _app_ _fullstack_ com Node.js, React e React Native][mcb]
 ###### Local: a definir
 <hr>
 
 
-##### 18:00 - 18:45
+##### 18:00 - 18:30
 ###### Intervalo
 <hr>
 
-##### 18:45 - 19:00
+##### 18:30 - 19:00
 ###### Credenciamento
 ###### Auditório do [IFC][ifc]
 <hr>
 
 ##### 19:00 - 20:15
-###### Palestra: [a definir][pla]
+###### Palestra: [Rocketseat: da UDESC Alto Vale para a maior comunidade de _devs_ da América Latina][pla]
 ###### Auditório do [IFC][ifc]
 <hr>
 
@@ -91,13 +91,18 @@ permalink: "/programacao/"
 ###### Local: a definir
 <hr>
 
-##### 18:00 - 19:00
+##### 18:00 - 18:30
 ###### Intervalo
 <hr>
 
+##### 18:30 - 19:00
+###### Credenciamento
+###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
+<hr>
+
 ##### 19:00 - 20:15
-###### Palestra: [a definir][plc]
-###### Auditório da [UDESC Alto Vale][ceavi]
+###### Palestra: [Título a definir][plc]
+###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
 <hr>
 
 ##### 20:15 - 20:45
@@ -105,8 +110,8 @@ permalink: "/programacao/"
 <hr>
 
 ##### 20:45- 22:00
-###### Palestra [a definir][pld]
-###### Auditório da [UDESC Alto Vale][ceavi]
+###### Palestra [Título a definir][pld]
+###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
 <hr>
 <!-- 
 # 29/9 (sexta-feira)

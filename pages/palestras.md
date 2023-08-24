@@ -15,17 +15,17 @@ permalink: "/palestras/"
 
 <div class="row t30" id="palestra_a"></div>
 
-## Título
+## Rocketseat: da UDESC Alto Vale para a maior comunidade de devs da América Latina
 
-resumo da palestra
+Como ex-aluno da UDESC Alto Vale (formado em Sistemas de Informação) e um dos fundadores da [Rocketseat][rocketseat], nessa palestra contarei um pouco da história da [Rocketseat][rocketseat] e também apresentarei tendências e ferramentas para criar um diferencial como dev em 2023. 
 
-### [Palestrante][1] (Instituição)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+### [Diego Schell Fernandes][dsf] (Rocketseat)
+<img class="img-responsive" src="{{site.urlimg}}foto-diego-schell-fernandes.jpg"/>
 
-descrição do palestrante
+CTO na [Rocketseat][rocketseat]. Entusiasta das melhores tecnologias de desenvolvimento web & mobile. Apaixonado por educação e por mudar a vida das pessoas através da programação. Mais de 200.000 pessoas já passaram por um dos meus treinamentos.
 
 ##### Data:
-27/09/2023
+27/9
 
 ##### Horário:
 19:00 - 20:15
@@ -33,6 +33,8 @@ descrição do palestrante
 ##### Local:
 Auditório do IFC Ibirama.
 
+<!-- ##### Anfitrião: -->
+<!-- Prof. Dr. [Fernando dos Santos][fds] (UDESC). -->
 
 
 <hr>
@@ -61,11 +63,11 @@ Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDES
   </div>
 </div>
 
-### Mediador
-a definir
+### Mediadora
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 ##### Data:
-27/09/2023
+27/9
 
 ##### Horário:
 20:45 - 22:00
@@ -77,54 +79,61 @@ Auditório do IFC Ibirama.
 <hr>
 <div class="row t30" id="palestra_c"></div>
 
-# Título
+# Título a definir
 
 resumo da palestra
 
-### [Palestrante][1] (Instituição)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+### [Gustavo Pinto][gp] (UFPA e Zup Innovation)
+<img class="img-responsive" src="{{site.urlimg}}foto-gustavo-pinto.png"/>
 
-descrição do palestrante
+Gustavo é Sênior Staff na Zup Innovation ([ZUP.com.br][zup]) e Professor Adjunto da Universidade Federal do Pará ([UFPA.br][ufpa]). Atualmente, ele se concentra na aplicação de técnicas de aprendizado de máquina para apoiar tarefas de engenharia de software. Gustavo é um destacado pesquisador, com mais de 100 artigos de pesquisa publicados. Ele escreve semanalmente na newsletter [ML4SE.substack.com][ml4se].
 
 ##### Data:
-27/09/2023
+28/9
 
 ##### Horário:
-20:45 - 22:00
+19:00 - 20:15
 
 ##### Local:
-Auditório do IFC Ibirama.
+Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar).
 
+<!-- ##### Anfitrião: -->
+<!-- Prof. Dr. [Fernando dos Santos][fds] (UDESC). -->
 
 <hr>
 <div class="row t30" id="palestra_d"></div>
 
-# Título
+# Título a definir
 
 resumo da palestra
 
-### [Palestrante][1] (Instituição)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+### [Damiana Costa][dc] (Mercado Livre)
+<img class="img-responsive" src="{{site.urlimg}}foto-damiana-costa.png"/>
 
-descrição do palestrante
+_Software Expert_ no Mercado Livre.
 
 ##### Data:
-27/09/2023
+28/9
 
 ##### Horário:
 20:45 - 22:00
 
 ##### Local:
-Auditório do IFC Ibirama.
+Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar)
 
-
+<!-- ##### Anfitrião: -->
+<!-- Prof. Dr. [Fernando dos Santos][fds] (UDESC). -->
 
 <hr>
 
 
-[1]: https://semeso.github.io
-[2]: https://semeso.github.io
-[3]: https://semeso.github.io
-[4]: https://semeso.github.io
-[5]: https://semeso.github.io
+[dsf]: https://www.linkedin.com/in/diego-schell-fernandes/
+[rocketseat]: https://www.rocketseat.com.br/
+[mgf]: http://lattes.cnpq.br/9540472751590233
+[fds]: http://lattes.cnpq.br/9532186865794326
+[gp]: https://gustavopinto.org/
+[dc]: https://www.linkedin.com/in/damianacosta/
+[zup]: https://www.zup.com.br/
+[ufpa]: http://ufba.br/
+[ml4se]: https://ml4se.substack.com/
  

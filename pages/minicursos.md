@@ -9,7 +9,7 @@ header:
    title: "SEMESO 2023"
 permalink: "/minicursos/"
 ---
-{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %}
+{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações. Escolha minicurso que você atende aos pré-requisitos. ' %}
 
 
 <div class="row t30" id="minicurso_a"></div>
@@ -38,25 +38,30 @@ _Co-founder_ @HOLE.TI, _Senior Product Manager_ no Itaú Unibanco,  _Software En
 <hr>
 <div class="row t30" id="minicurso_b"></div>
 
-# Título
+# Criando um _app_ _fullstack_ com Node.js, React e React Native
 
-conteúdo a definir
+Neste minicurso veremos como criar um _app_ _fullstack_ utilizando Node.js, React e React Native.
+
+
+{% include alert alert='<strong>Pré-requisitos</strong>: fundamentos da web, HTTP e banco de dados.' %}
 
 ##### Data:
-a definir
+27/9
 
 ##### Horário:
-a definir
+13:30 às 18:00
 
 ##### Local:
 a definir.
 
 ##### Ministrante:
 
-###### [Nome do ministrante][2] (Instituição)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
 
-descrição do ministrante
+
+###### [Diego Schell Fernandes][dsf] (Rocketseat)
+<img class="img-responsive" src="{{site.urlimg}}foto-diego-schell-fernandes.jpg"/>
+
+CTO na [Rocketseat][rocketseat]. Entusiasta das melhores tecnologias de desenvolvimento web & mobile. Apaixonado por educação e por mudar a vida das pessoas através da programação. Mais de 200.000 pessoas já passaram por um dos meus treinamentos.
 
 <hr>
 <div class="row t30" id="minicurso_c"></div>
@@ -65,11 +70,11 @@ descrição do ministrante
 
 Estatística descritiva: manipulação de estruturas de dados, tabulação, gráficos, medidas e resumo e análise exploratória de dados; estatística inferencial: intervalos de confiança, testes de hipóteses e análise de regressão; Estatística multivariada e preditiva: análise de componentes principais e técnicas de machine learning (Random Forest, k-NN); Manipulação de objetos e gerenciamento de memória no R.
 
-{% include alert alert='<strong>Pre-requisito</strong>: ter cursado ou estar cursando disciplina de probabilidade e estatística.' %}
+{% include alert alert='<strong>Pré-requisitos</strong>: ter cursado ou estar cursando disciplina de probabilidade e estatística.' %}
 
 
 ##### Data:
-a definir
+28/9
 
 ##### Horário:
 13:30 às 18:00.
@@ -94,10 +99,10 @@ Professor de matemática e estatística na Universidade do Estado de Santa Catar
 
 Neste curso, conduziremos você por uma jornada empolgante, desde a captação e processamento de dados da blockchain, passando pela construção de recursos complexos, até a implementação de modelos de aprendizado de máquina com práticas de MLOps.
 
-{% include alert alert='<strong>Pre-requisito</strong>: ter conhecimento de lógica de programação.' %}
+{% include alert alert='<strong>Pré-requisitos</strong>: ter conhecimento de lógica de programação.' %}
 
 ##### Data:
-a definir
+28/9
 
 ##### Horário:
 13:30 às 18:00
@@ -116,3 +121,5 @@ _Machine Learning Engineer_, _Data Scientist_, _MLOps_.
 [pm]: http://lattes.cnpq.br/2530478080816147
 [flm]: https://www.linkedin.com/in/felipelanamachado
 [fb]: https://www.linkedin.com/in/fernando-borguesan
+[dsf]: https://www.linkedin.com/in/diego-schell-fernandes/
+[rocketseat]: https://www.rocketseat.com.br/
