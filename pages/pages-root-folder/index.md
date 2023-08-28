@@ -8,9 +8,9 @@
 #
 layout: page-fullwidth
 title: "SEMESO 2023"
+teaser: "X Seminário de Engenharia de Software."
 header:
-   image_fullwidth: "clement-helardot-95YRwf6CNw8-unsplashsmall.jpg"
-   title: "SEMESO 2023"
+   image_fullwidth: "banner-site.jpg"
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -20,3 +20,5 @@ homepage: true
 ---
 
 {% include semeso.md %}
+
+
