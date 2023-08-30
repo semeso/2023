@@ -78,9 +78,9 @@ Auditório do IFC Ibirama.
 <hr>
 <div class="row t30" id="palestra_c"></div>
 
-# Título a definir
+# 5 coisas que toda pessoa desenvolvedora deveria saber sobre GenAI
 
-resumo da palestra
+Aplicações que utilizam de técnicas Inteligência Artificial Generativa (GenAI) tomaram conta dos noticiários e da nossa suíte de trabalho. Mas, que técnicas são essas? E o que precisamos saber para começar a construir aplicações que utilizam dessas técnicas? Nesta palestra, pincelaremos alguns dos principais conceitos da GenAI. Iniciaremos explorando qual a sacada dos Grandes Modelos Linguísticos (LLMs), bem como algumas limitações conhecidas. Discutiremos o papel dos embeddings, que são representações numéricas que capturam relações semânticas. Na Engenharia de Prompt, mostraremos como pequenas mudanças nas instruções podem influenciar LLMs. Por fim, abordaremos como avaliar a qualidade dos resultados. Ao final dessa palestra, entenderemos como esses elementos se conectam na construção de um ChatBot inteligente.
 
 ### [Gustavo Pinto][gp] (UFPA e Zup Innovation)
 <img class="img-responsive" src="{{site.urlimg}}foto-gustavo-pinto.png"/>

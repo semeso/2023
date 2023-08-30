@@ -18,6 +18,10 @@
   url: "/organizacao/"
   side: left
 
+- title: "Certificados"
+  url: "/certificados/"
+  side: left
+
 # - title: "Templates"
 #   url: "/design/"
 #   side: left

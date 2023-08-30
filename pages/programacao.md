@@ -100,7 +100,7 @@ permalink: "/programacao/"
 <hr>
 
 ##### 19:00 - 20:15
-###### Palestra: [Título a definir][plc]
+###### Palestra: [5 coisas que toda pessoa desenvolvedora deveria saber sobre GenAI][plc]
 ###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
 <hr>
 
