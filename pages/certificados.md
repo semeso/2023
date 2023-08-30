@@ -9,4 +9,4 @@ header:
 permalink: "/certificados/"
 ---
 
-Em breve serão explicado os **requisitos de participação** para ter direito ao certificado, que poderá ser utilizado para validar atividades complementares.
+Em breve serão explicados os **requisitos de participação** para ter direito ao certificado, que poderá ser utilizado para validar atividades complementares.
