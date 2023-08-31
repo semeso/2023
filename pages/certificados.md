@@ -9,4 +9,21 @@ header:
 permalink: "/certificados/"
 ---
 
-Em breve serão explicados os **requisitos de participação** para ter direito ao certificado, que poderá ser utilizado para validar atividades complementares.
+Serão emitidos certificados para participantes de palestras e minicursos. Acadêmicos de Engenharia de Software da UDESC Alto Vale poderão utilizar os certificados para validar atividades complementares.
+
+**Atenção** para os critérios de emissão de certificados, descritos a seguir.
+
+
+### Palestras
+
+Em breve serão explicados os **critérios de participação** nas palestras para ter direito aos certificados.
+
+
+### Minicursos
+
+Será emitido um certificado para cada minicurso em que o participante registrar **100% de frequência**.  Os instrutores serão orientados a realizar **chamadas nominais** durante a realização do minicurso para registrar a frequência.
+
+O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
+
+
+

@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Sobre o SEMESO"
-#teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
-permalink: "/info/"
+meta_title: "SEMESO 2023"
+subheadline: "SEMESO 2023 - 25 a 28/9 - UDESC Alto Vale"
+teaser: "X Seminário de Engenharia de Software"
 header:
-    image_fullwidth: "clement-helardot-95YRwf6CNw8-unsplashsmall.jpg"
+   image_fullwidth: "banner-site.jpg"
+permalink: "/info/"
 ---
+
 
 {% include semeso.md %}

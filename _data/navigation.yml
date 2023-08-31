@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Programacao
+- title: Programação
   url: "/programacao/"
   side: left
 
@@ -14,14 +14,17 @@
   url: "/minicursos/"
   side: left
 
-- title: "Organização"
-  url: "/organizacao/"
+- title: Inscrições
+  url: "/inscricoes/"
   side: left
 
-- title: "Certificados"
+- title: Certificados
   url: "/certificados/"
   side: left
 
+- title: Organização
+  url: "/organizacao/"
+  side: right
   
 - title: "Contato"
   url: "/contact/"
