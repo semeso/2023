@@ -10,35 +10,35 @@ permalink: "/programacao/"
 ---
 {% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %}
 
-# 25/9 (segunda-feira)
-##### Atividades realizadas em conjunto com o [SEPEX][sepex]
+# 25/9 (segunda)
+##### Atividades realizadas em conjunto com a [SEPEX][sepex]
 
-##### Horário: 19:30 - 20:30
-###### Atividade: Show Cultural Teatro
+##### Horário: 19:00 - 20:00
+###### Atividade: Palestra de Abertura com **Paulão do Volei**
 ###### Local: [Sociedade Desportiva União][sdu]
 <hr>
 
-##### Horário: 21:00 - 22:00
-###### Atividade: Palestra
+##### Horário: 20:30 - 22:00
+###### Atividade: Peça Teatral: Kasperi e a Cerveja do Papa
 ###### Local: [Sociedade Desportiva União][sdu]
 <hr>
 
 
-# 26/9 (terça-feira)
-##### Atividades realizadas em conjunto com o [SEPEX][sepex]
+# 26/9 (terça)
+##### Atividades realizadas em conjunto com a [SEPEX][sepex]
 
-##### Horário: 08:00 - 18:00
-###### Atividade: Exposição de Projetos
+##### Horário: 13:00 - 18:00
+###### Atividade: Exposição de Projetos de Extensão
 ###### Local: [UDESC Alto Vale][ceavi]
 <hr>
 
-##### Horário: 18:00 - 22:00
-###### Atividade: Seminário de Iniciação Científica (SIC)
+##### Horário: 19:00 - 22:00
+###### Atividade: Exposição e Avaliação dos Projetos de Pesquisa (SIC)
 ###### Local: [UDESC Alto Vale][ceavi]
 <hr>
 
 
-# 27/9 (quarta-feira)
+# 27/9 (quarta)
 ##### Atividades do SEMESO
 
 
@@ -77,7 +77,7 @@ permalink: "/programacao/"
 <hr>
 
 
-# 28/9 (quinta-feira)
+# 28/9 (quinta)
 ##### Atividades do SEMESO
 
 ##### 13:30 - 18:00
@@ -123,7 +123,7 @@ permalink: "/programacao/"
 
 
 
-[sepex]: https://www.udesc.br/ceavi/sepex
+[sepex]: https://www.udesc.br/ceavi/sepex/2023
 [sdu]: https://goo.gl/maps/gXFBRgXUzemKz5EN9
 [ceavi]: https://goo.gl/maps/SxDUc5Tw4X2HUoNQ9
 [ifc]: https://goo.gl/maps/oL7FKLM7q1NbxwDW6

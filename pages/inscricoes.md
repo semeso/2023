@@ -9,14 +9,17 @@ header:
 permalink: "/inscricoes/"
 ---
 
-### Inscrições em Palestras
+As inscrições em palestras e minicursos serão realizadas conforme descrito a seguir.
+
+### Palestras
 
 As palestras do SEMESO realizadas em **27 e 28/9** são **gratuitas** e **abertas ao público**. 
 
 Não é necessário inscrição, mas **recomenda-se** chegar ao local com antecedência para garantir seu lugar na plateia.
 
+Consulte a página da [SEPEX][sepex] para verificar a inscrição nas atividades de **25 e 26/9**.
 
-### Inscrições em Minicursos
+### Minicursos
 
 Em breve serão disponibilizados formulários para inscrição nos minicursos. As vagas são **limitadas**.
 
@@ -26,3 +29,5 @@ Os minicursos são gratuitos para acadêmicos de Engenharia de Software da UDESC
 
 
 
+
+[sepex]: https://www.udesc.br/ceavi/sepex/2023
