@@ -32,7 +32,7 @@ CTO na [Rocketseat][rocketseat]. Entusiasta das melhores tecnologias de desenvol
 ##### Local:
 Auditório do IFC Ibirama.
 
-<!-- ##### Anfitrião: -->
+##### Anfitrião: 
 <!-- Prof. Dr. [Fernando dos Santos][fds] (UDESC). -->
 
 
@@ -96,20 +96,20 @@ Gustavo é Sênior Staff na Zup Innovation ([ZUP.com.br][zup]) e Professor Adjun
 ##### Local:
 Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar).
 
-<!-- ##### Anfitrião: -->
-<!-- Prof. Dr. [Fernando dos Santos][fds] (UDESC). -->
+##### Anfitrião: 
+Prof. Dr. [Fernando dos Santos][fds] (UDESC).
 
 <hr>
 <div class="row t30" id="palestra_d"></div>
 
-# Título a definir
+# Arquitetura, Tecnologia e Além: A Jornada de Empoderamento de uma Desenvolvedora
 
-resumo da palestra
+Nesta palestra, exploraremos as tendências, _frameworks_ e desafios na tecnologia atual, destacando os obstáculos enfrentados por mulheres na carreira. Abordaremos arquitetura, tecnologias de ponta e processos eficazes, enquanto discutimos desafios comuns e como superá-los.  Este é um convite para inspiração e força, celebrando o papel das mulheres na tecnologia e juntos construir um amanhã mais inclusivo e igualitário.
 
 ### [Damiana Costa][dc] (Mercado Livre)
 <img class="img-responsive" src="{{site.urlimg}}foto-damiana-costa.png"/>
 
-_Software Expert_ no Mercado Livre.
+Damiana Costa, com sua trajetória e experiência em desenvolvimento _backend_, é _Software Expert_ no Mercado Livre, com paixão por arquitetura, ela enfrenta desafios complexos, liderando projetos e fortalecendo sistemas robustos com _expertise_.
 
 ##### Data:
 28/9
@@ -120,8 +120,8 @@ _Software Expert_ no Mercado Livre.
 ##### Local:
 Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar)
 
-<!-- ##### Anfitrião: -->
-<!-- Prof. Dr. [Fernando dos Santos][fds] (UDESC). -->
+##### Anfitriã:
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC). -->
 
 <hr>
 

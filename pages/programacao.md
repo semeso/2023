@@ -109,7 +109,7 @@ permalink: "/programacao/"
 <hr>
 
 ##### 20:45- 22:00
-###### Palestra [Título a definir][pld]
+###### Palestra: [Arquitetura, Tecnologia e Além: A Jornada de Empoderamento de uma Desenvolvedora][pld]
 ###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
 <hr>
 <!-- 
