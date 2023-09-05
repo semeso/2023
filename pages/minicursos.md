@@ -23,6 +23,9 @@ Descubra como o framework Scrum é utilizado para maximizar resultados, reduzir 
 ##### Horário:
 13:30 às 18:00
 
+##### Vagas:
+a definir.
+
 ##### Local:
 a definir.
 
@@ -50,12 +53,13 @@ Neste minicurso veremos como criar um _app_ _fullstack_ utilizando Node.js, Reac
 ##### Horário:
 13:30 às 18:00
 
+##### Vagas:
+a definir.
+
 ##### Local:
 a definir.
 
 ##### Ministrante:
-
-
 
 ###### [Diego Schell Fernandes][dsf] (Rocketseat)
 <img class="img-responsive" src="{{site.urlimg}}foto-diego-schell-fernandes.jpg"/>
@@ -78,9 +82,11 @@ Estatística descritiva: manipulação de estruturas de dados, tabulação, grá
 ##### Horário:
 13:30 às 18:00.
 
-##### Local:
+##### Vagas:
 a definir.
 
+##### Local:
+a definir.
 
 ##### Ministrante:
 
@@ -105,6 +111,9 @@ Neste curso, conduziremos você por uma jornada empolgante, desde a captação e
 
 ##### Horário:
 13:30 às 18:00
+
+##### Vagas:
+a definir.
 
 ##### Local:
 a definir

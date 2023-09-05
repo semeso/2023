@@ -15,7 +15,7 @@ As inscrições em palestras e minicursos serão realizadas conforme descrito a 
 
 As palestras do SEMESO realizadas em **27 e 28/9** são **gratuitas** e **abertas ao público**. 
 
-Não é necessário inscrição, mas **recomenda-se** chegar ao local com antecedência para garantir seu lugar na plateia.
+Não é necessário inscrição, mas **recomenda-se** chegar ao local com antecedência para garantir lugar na plateia.
 
 Consulte a página da [SEPEX][sepex] para verificar a inscrição nas atividades de **25 e 26/9**.
 

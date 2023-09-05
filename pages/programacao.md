@@ -13,14 +13,16 @@ permalink: "/programacao/"
 # 25/9 (segunda)
 ##### Atividades realizadas em conjunto com a [SEPEX][sepex]
 
+{% include alert success='ATENÇÃO. Verificar site do [SEPEX][sepex] para verificar inscrições e vagas destas atividades' %}
+
 ##### Horário: 19:00 - 20:00
 ###### Atividade: Palestra de Abertura com **Paulão do Volei**
-###### Local: [Sociedade Desportiva União][sdu]
+###### Local: [Salão União][sdu]
 <hr>
 
 ##### Horário: 20:30 - 22:00
-###### Atividade: Peça Teatral: Kasperi e a Cerveja do Papa
-###### Local: [Sociedade Desportiva União][sdu]
+###### Atividade: Peça Teatral **Kasperl e a Cerveja do Papa**
+###### Local: [Salão União][sdu]
 <hr>
 
 
