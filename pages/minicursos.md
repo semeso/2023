@@ -8,8 +8,6 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/minicursos/"
 ---
-{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações. Escolha minicurso que você atende aos pré-requisitos. ' %}
-
 
 <div class="row t30" id="minicurso_a"></div>
 
@@ -24,10 +22,10 @@ Descubra como o framework Scrum é utilizado para maximizar resultados, reduzir 
 13:30 às 18:00
 
 ##### Vagas:
-a definir.
+40
 
 ##### Local:
-a definir.
+Sala 14
 
 ##### Ministrante:
 
@@ -54,10 +52,10 @@ Neste minicurso veremos como criar um _app_ _fullstack_ utilizando Node.js, Reac
 13:30 às 18:00
 
 ##### Vagas:
-a definir.
+28
 
 ##### Local:
-a definir.
+Laboratório 2
 
 ##### Ministrante:
 
@@ -80,13 +78,13 @@ Estatística descritiva: manipulação de estruturas de dados, tabulação, grá
 28/9
 
 ##### Horário:
-13:30 às 18:00.
+13:30 às 18:00
 
 ##### Vagas:
-a definir.
+28
 
 ##### Local:
-a definir.
+Laboratório 2
 
 ##### Ministrante:
 
@@ -113,10 +111,10 @@ Neste curso, conduziremos você por uma jornada empolgante, desde a captação e
 13:30 às 18:00
 
 ##### Vagas:
-a definir.
+28
 
 ##### Local:
-a definir
+Laboratório 3
 
 ##### Ministrante:
 

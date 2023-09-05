@@ -21,7 +21,7 @@ Consulte a página da [SEPEX][sepex] para verificar a inscrição nas atividades
 
 ### Minicursos
 
-Em breve serão disponibilizados formulários para inscrição nos minicursos. As vagas são **limitadas**.
+Acesse o formulário para se inscrever em minicursos: [https://forms.office.com/r/4x7vMA2n7B][form] (a partir das 12:00h de 6/9). Leia atentamente as instruções no formulário. **ATENÇÃO**: é necessário se autenticar com seu usuário/senha do ID UDESC.
 
 **Seja consciente** e inscreva-se apenas em minicurso que você atende aos pré-requisitos. Assim você terá melhor aproveitamento do conteúdo, pois os instrutores **não vão explicar/revisar** os conceitos descritos nos pré-requisitos. 
 
@@ -31,3 +31,4 @@ Os minicursos são gratuitos para acadêmicos de Engenharia de Software da UDESC
 
 
 [sepex]: https://www.udesc.br/ceavi/sepex/2023
+[form]: https://forms.office.com/r/4x7vMA2n7B

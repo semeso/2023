@@ -13,7 +13,7 @@ permalink: "/programacao/"
 # 25/9 (segunda)
 ##### Atividades realizadas em conjunto com a [SEPEX][sepex]
 
-{% include alert success='ATENÇÃO. Verificar site do [SEPEX][sepex] para verificar inscrições e vagas destas atividades' %}
+{% include alert success='ATENÇÃO. Verificar site do SEPEX para inscrições e vagas nessas atividades.' %}
 
 ##### Horário: 19:00 - 20:00
 ###### Atividade: Palestra de Abertura com **Paulão do Volei**
