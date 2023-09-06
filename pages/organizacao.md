@@ -31,9 +31,11 @@ Profª. Dra. [Marília Guterres Ferreira][mgf]
 
 Prof. Dr. [Pablo Schoeffel][ps]
 
-Prof. Dr. [Paolo Moser][pm]
+<!-- Prof. Dr. [Paolo Moser][pm] -->
 
 Prof. Dr. [Paulo Roberto Farah][prf]
+
+Acadêmica [Mariana Lino da Silva][mls]
 
 
 [fds]: http://lattes.cnpq.br/9532186865794326
@@ -45,4 +47,5 @@ Prof. Dr. [Paulo Roberto Farah][prf]
 [mgf]: http://lattes.cnpq.br/9540472751590233
 [ps]: http://lattes.cnpq.br/3929824514680056
 [pm]: http://lattes.cnpq.br/2530478080816147
-[prf]:[http://lattes.cnpq.br/8515153063852772]
+[prf]:http://lattes.cnpq.br/8515153063852772
+[mls]:https://www.linkedin.com/in/mariana-lino-da-silva-856224236/

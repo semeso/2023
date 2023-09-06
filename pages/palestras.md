@@ -9,8 +9,7 @@ header:
 permalink: "/palestras/"
 ---
 
-{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %}
-
+<!-- {% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %} -->
 
 <div class="row t30" id="palestra_a"></div>
 
@@ -30,10 +29,10 @@ CTO na [Rocketseat][rocketseat]. Entusiasta das melhores tecnologias de desenvol
 19:00 - 20:15
 
 ##### Local:
-Auditório do IFC Ibirama.
+Auditório do IFC Ibirama
 
 ##### Anfitrião: 
-<!-- Prof. Dr. [Fernando dos Santos][fds] (UDESC). -->
+Prof. Msc. [Mattheus da Hora França][mhf] (UDESC)
 
 
 <hr>
@@ -72,7 +71,7 @@ Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 20:45 - 22:00
 
 ##### Local:
-Auditório do IFC Ibirama.
+Auditório do IFC Ibirama
 
 
 <hr>
@@ -97,7 +96,7 @@ Gustavo é Sênior Staff na Zup Innovation ([ZUP.com.br][zup]) e Professor Adjun
 Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar).
 
 ##### Anfitrião: 
-Prof. Dr. [Fernando dos Santos][fds] (UDESC).
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
 <hr>
 <div class="row t30" id="palestra_d"></div>
@@ -121,7 +120,7 @@ Damiana Costa, com sua trajetória e experiência em desenvolvimento _backend_, 
 Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitriã:
-Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC). -->
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 <hr>
 
@@ -135,4 +134,5 @@ Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC). -->
 [zup]: https://www.zup.com.br/
 [ufpa]: http://ufba.br/
 [ml4se]: https://ml4se.substack.com/
+[mhf]: http://lattes.cnpq.br/2665316828133413
  

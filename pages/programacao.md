@@ -8,12 +8,11 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/programacao/"
 ---
-{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %}
 
 # 25/9 (segunda)
 ##### Atividades realizadas em conjunto com a [SEPEX][sepex]
 
-{% include alert success='ATENÇÃO. Verificar site do SEPEX para inscrições e vagas nessas atividades.' %}
+{% include alert warning='<strong>ATENÇÃO</strong>. Verificar o site do SEPEX para inscrições e vagas nessas atividades.' %}
 
 ##### Horário: 19:00 - 20:00
 ###### Atividade: Palestra de Abertura com **Paulão do Volei**
