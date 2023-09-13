@@ -26,6 +26,13 @@ permalink: "/programacao/"
 
 
 # 26/9 (terça)
+##### Atividades do SEMESO
+
+##### Horário: 19:00 - 20:30
+###### Atividade: [Primeiro Encontro das Meninas Digitais do Alto Vale do Itajaí][meninas_digitais]
+###### Bloco Imbuia da [UDESC Alto Vale][ceavi] (sala a definir)
+<hr>
+
 ##### Atividades realizadas em conjunto com a [SEPEX][sepex]
 
 ##### Horário: 13:00 - 18:00
@@ -138,4 +145,5 @@ permalink: "/programacao/"
  [plb]: {{ site.url }}/palestras/#palestra_b
  [plc]: {{ site.url }}/palestras/#palestra_c
  [pld]: {{ site.url }}/palestras/#palestra_d
+ [meninas_digitais]: {{ site.url }}/palestras/#meninas_digitais
  

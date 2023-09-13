@@ -11,6 +11,35 @@ permalink: "/palestras/"
 
 <!-- {% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %} -->
 
+
+<div class="row t30" id="meninas_digitais"></div>
+
+## Primeiro Encontro das Meninas Digitais do Alto Vale do Itajaí
+
+<img class="img-responsive" src="{{site.urlimg}}encontro-mdavi.jpg"/>
+
+Encontro para marcar a fundação do grupo **Meninas Digitais** na [UDESC Alto Vale][ceavi]. Terá a participação das [Meninas Digitais do Vale do Itajaí][mdvi] para apresentar as ações realizadas em Blumenau e região, com troca de ideias sobre ações que o nosso grupo poderá fazer para incentivar meninas de Ibirama e região a ingressarem na área de Engenharia de Software.
+
+
+
+### [Luciana Pereira de Araújo Kohler][lpak] (FURB)
+<img class="img-responsive" src="{{site.urlimg}}foto-luciana-araujo-kohler.jpg"/>
+
+### [Larissa Zózimo Antunes][lza] (FURB)
+<img class="img-responsive" src="{{site.urlimg}}foto-larissa-zozimo-antunes.jpg"/>
+
+
+##### Data:
+26/9
+
+##### Horário:
+19:00 - 20:30
+
+##### Local:
+Bloco Imbuia (sala a definir)
+
+
+
 <div class="row t30" id="palestra_a"></div>
 
 ## Rocketseat: da UDESC Alto Vale para a maior comunidade de devs da América Latina
@@ -135,4 +164,7 @@ Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 [ufpa]: http://ufba.br/
 [ml4se]: https://ml4se.substack.com/
 [mhf]: http://lattes.cnpq.br/2665316828133413
- 
+[ceavi]: http://www.ceavi.udesc.br
+[mdvi]: https://meninasdigitaisval.wixsite.com/meninasdigitais
+[lpak]: https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424
+[lza]: https://www.linkedin.com/in/larissa-antunes-b30ba1238
