@@ -1,3 +1,13 @@
+- name: Instagram
+  url: https://www.instagram.com/udesc.engsoftware/
+  class: icon-instagram
+  title: "Perfil  do curso de Engenharia de Software"
+
+- name: Linkedin
+  url: https://www.linkedin.com/company/udesc-engsoftware/
+  class: icon-linkedin
+  title: "Perfil  do curso de Engenharia de Software"
+
 - name: GitHub
   url: https://github.com/udesc-engsoftware
   class: icon-github
@@ -8,19 +18,14 @@
   class: icon-youtube
   title: "Canal do curso de Engenharia de Software"
 
-- name: Twitter
-  url: https://twitter.com/udesc_engsoftwr
-  class: icon-twitter
-  title: "Perfil  do curso de Engenharia de Software"
-
-#- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
-#  class: icon-cloud
-#  title: "Mixe, was sonst?"
-
 - name: Facebook
   url: https://www.facebook.com/udesc.engsoftware
   class: icon-facebook
+  title: "Perfil  do curso de Engenharia de Software"
+
+- name: Twitter
+  url: https://twitter.com/udesc_engsoftwr
+  class: icon-twitter
   title: "Perfil  do curso de Engenharia de Software"
 
 # - name: Soundcloud
@@ -28,10 +33,7 @@
 #   class: icon-soundcloud
 #   title: ""
 
-- name: Instagram
-  url: https://www.instagram.com/udesc.engsoftware/
-  class: icon-instagram
-  title: "Perfil  do curso de Engenharia de Software"
+
 
 
 # - name: Pinterest
