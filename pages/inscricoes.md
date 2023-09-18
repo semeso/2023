@@ -9,11 +9,17 @@ header:
 permalink: "/inscricoes/"
 ---
 
-As inscrições em palestras e minicursos serão realizadas conforme descrito a seguir.
+As inscrições nas atividades do SEMESO são realizadas conforme descrito a seguir.
+
+
+### I Encontro Meninas Digitais Alto Vale do Itajaí
+
+Para participar do [Primeiro Encontro das Meninas Digitais do Alto Vale do Itajaí][meninas_digitais] preencha este formulário: [https://forms.office.com/r/2VS3AJA1QX][formmdavi].
+
 
 ### Palestras
 
-As palestras do SEMESO realizadas em **27 e 28/9** são **gratuitas** e **abertas ao público**. 
+As palestras do SEMESO realizadas em **27 e 28/9** no período **noturno** são **gratuitas** e **abertas ao público**. 
 
 Não é necessário inscrição, mas **recomenda-se** chegar ao local com antecedência para garantir lugar na plateia.
 
@@ -26,12 +32,12 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 
 #### Inscrições para acadêmicos de Engenharia de Software
 - Período: 6 a 17/9.
-- Formulário de inscrição: [https://forms.office.com/r/4x7vMA2n7B][form]. Leia atentamente as instruções no formulário. É necessário se autenticar com seu usuário/senha do ID UDESC.
+- Formulário de inscrição: [https://forms.office.com/r/4x7vMA2n7B][formminieso]. Leia atentamente as instruções no formulário. É necessário se autenticar com seu usuário/senha do ID UDESC.
 - **ATENÇÃO**: caso desista de participar em minicurso, acesse novamente o formulário para **desfazer** a inscrição.
 
 
 #### Inscrições para público geral
-- Período: 18 a 21/9 (mediante sobra de vagas).
+- Período: (em breve, mediante sobra de vagas).
 - Formulário de inscrição: (em breve). Leia atentamente as instruções no formulário.
 
 #### Orientações importantes
@@ -42,4 +48,6 @@ O participante inscrito que **não comparecer** ao minicurso, além de não rece
 
 
 [sepex]: https://www.udesc.br/ceavi/sepex/2023
-[form]: https://forms.office.com/r/4x7vMA2n7B
+[formminieso]: https://forms.office.com/r/4x7vMA2n7B
+[formmdavi]: https://forms.office.com/r/2VS3AJA1QX
+[meninas_digitais]: {{ site.url }}/palestras/#meninas_digitais
