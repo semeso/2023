@@ -21,7 +21,6 @@ permalink: "/palestras/"
 Encontro para marcar a fundação do grupo **Meninas Digitais** na [UDESC Alto Vale][ceavi]. Terá a participação das [Meninas Digitais do Vale do Itajaí][mdvi] para apresentar as ações realizadas em Blumenau e região, com troca de ideias sobre ações que o nosso grupo poderá fazer para incentivar meninas de Ibirama e região a ingressarem na área de Engenharia de Software.
 
 
-
 ### [Luciana Pereira de Araújo Kohler][lpak] (FURB)
 <img class="img-responsive" src="{{site.urlimg}}foto-luciana-araujo-kohler.jpg"/>
 
@@ -38,6 +37,10 @@ Encontro para marcar a fundação do grupo **Meninas Digitais** na [UDESC Alto V
 ##### Local:
 Bloco Imbuia (sala a definir)
 
+##### Anfitriões: 
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
 
 <div class="row t30" id="palestra_a"></div>

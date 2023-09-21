@@ -37,8 +37,8 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 
 
 #### Inscrições para público geral
-- Período: (em breve, mediante sobra de vagas).
-- Formulário de inscrição: (em breve). Leia atentamente as instruções no formulário.
+- Período: 21 a 25/9.
+- Formulário de inscrição: [https://forms.office.com/r/4x7vMA2n7B][formminiesopublico]. Leia atentamente as instruções no formulário.
 
 #### Orientações importantes
 
@@ -51,3 +51,4 @@ O participante inscrito que **não comparecer** ao minicurso, além de não rece
 [formminieso]: https://forms.office.com/r/4x7vMA2n7B
 [formmdavi]: https://forms.office.com/r/2VS3AJA1QX
 [meninas_digitais]: {{ site.url }}/palestras/#meninas_digitais
+[formminiesopublico]: https://forms.office.com/r/4x7vMA2n7B
