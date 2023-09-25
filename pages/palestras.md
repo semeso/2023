@@ -35,7 +35,7 @@ Encontro para marcar a fundação do grupo **Meninas Digitais** na [UDESC Alto V
 19:00 - 20:30
 
 ##### Local:
-Bloco Imbuia (sala a definir)
+Bloco Imbuia (sala 217)
 
 ##### Anfitriões: 
 Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
