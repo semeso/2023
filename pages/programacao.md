@@ -30,7 +30,7 @@ permalink: "/programacao/"
 
 ##### Horário: 19:00 - 20:30
 ###### Atividade: [Primeiro Encontro das Meninas Digitais do Alto Vale do Itajaí][meninas_digitais]
-###### Bloco Imbuia da [UDESC Alto Vale][ceavi] (sala a definir)
+###### Bloco Imbuia da [UDESC Alto Vale][ceavi] (sala 217)
 <hr>
 
 ##### Atividades realizadas em conjunto com a [SEPEX][sepex]
@@ -52,12 +52,12 @@ permalink: "/programacao/"
 
 ##### 13:30 - 18:00
 ###### Minicurso: [Scrum na Prática][mca]
-###### Local: a definir
+###### Local: sala 14
 <hr>
 
 ##### 13:30 - 18:00
 ###### Minicurso: [Criando um _app_ _fullstack_ com Node.js, React e React Native][mcb]
-###### Local: a definir
+###### Local: laboratório 2
 <hr>
 
 
@@ -90,12 +90,12 @@ permalink: "/programacao/"
 
 ##### 13:30 - 18:00
 ###### Minicurso: [Data Science com R][mcc]
-###### Local: a definir
+###### Local: laboratório 2
 <hr>
 
 ##### 13:30 - 18:00
 ###### Minicurso: [Data Science no Mundo das Criptomoedas: da Blockchain ao MLOps][mcd]
-###### Local: a definir
+###### Local: laboratório 3
 <hr>
 
 ##### 18:00 - 18:30
