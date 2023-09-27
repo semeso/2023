@@ -30,7 +30,7 @@ permalink: "/programacao/"
 
 ##### Horário: 19:00 - 20:30
 ###### Atividade: [Primeiro Encontro das Meninas Digitais do Alto Vale do Itajaí][meninas_digitais]
-###### Bloco Imbuia da [UDESC Alto Vale][ceavi] (sala 217)
+###### Local: Sala 17 da [UDESC Alto Vale][ceavi]
 <hr>
 
 ##### Atividades realizadas em conjunto com a [SEPEX][sepex]
@@ -38,6 +38,11 @@ permalink: "/programacao/"
 ##### Horário: 13:00 - 18:00
 ###### Atividade: Exposição de Projetos de Extensão
 ###### Local: [UDESC Alto Vale][ceavi]
+<hr>
+
+##### Horário: 19:00 - 20:30
+###### Palestra: [Importância da Vivência Universitária na Trajetória Pessoal e Profissional: um Relato de Experiência][palestra_vivencia_universitaria]
+###### Local: Auditório da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar)
 <hr>
 
 ##### Horário: 19:00 - 22:00
@@ -104,12 +109,12 @@ permalink: "/programacao/"
 
 ##### 18:30 - 19:00
 ###### Credenciamento
-###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
+###### Auditório da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
 <hr>
 
 ##### 19:00 - 20:15
 ###### Palestra: [5 coisas que toda pessoa desenvolvedora deveria saber sobre GenAI][plc]
-###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
+###### Auditório da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
 <hr>
 
 ##### 20:15 - 20:45
@@ -118,7 +123,7 @@ permalink: "/programacao/"
 
 ##### 20:45- 22:00
 ###### Palestra: [Arquitetura, Tecnologia e Além: A Jornada de Empoderamento de uma Desenvolvedora][pld]
-###### Auditório-Hall da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
+###### Auditório da [UDESC Alto Vale][ceavi] (bloco Imbuia, 3º andar).
 <hr>
 <!-- 
 # 29/9 (sexta-feira)
@@ -146,4 +151,4 @@ permalink: "/programacao/"
  [plc]: {{ site.url }}/palestras/#palestra_c
  [pld]: {{ site.url }}/palestras/#palestra_d
  [meninas_digitais]: {{ site.url }}/palestras/#meninas_digitais
- 
+ [palestra_vivencia_universitaria]: {{ site.url }}/palestras/#palestra_vivencia_universitaria

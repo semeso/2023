@@ -42,8 +42,31 @@ Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
+<hr>
+<div class="row t30" id="palestra_vivencia_universitaria"></div>
 
+## Importância da Vivência Universitária na Trajetória Pessoal e Profissional: um Relato de Experiência
+
+### [Anderson Betti Frare][abf] (UFRJ)
+<img class="img-responsive" src="{{site.urlimg}}foto-anderson-betti-frare.jpg"/>
+
+Professor Adjunto da Universidade Federal do Rio de Janeiro (UFRJ). Doutor em Contabilidade pela Universidade Federal de Santa Catarina (UFSC). Mestre em Contabilidade e Bacharel em Ciências Contábeis pela Universidade Federal do Rio Grande (FURG). Avaliador de periódicos e congressos de Administração e Contabilidade. Tem interesse em Contabilidade Gerencial, Gestão da Inovação e Estatística. Pesquisa nos seguintes temas: Controle Gerencial, Sistemas de Controle Gerencial, Inovação, Startups, Sustentabilidade, Tecnologias e Ensino em Contabilidade.
+
+##### Data:
+26/9
+
+##### Horário:
+19:00 - 20:30
+
+##### Local:
+Auditório da UDESC Alto Vale (bloco Imbuia, 3º andar).
+
+##### Anfitrião
+Prof. Dr. [Vanderlei dos Santos][vds] (UDESC)
+
+<hr>
 <div class="row t30" id="palestra_a"></div>
+
 
 ## Rocketseat: da UDESC Alto Vale para a maior comunidade de devs da América Latina
 
@@ -125,7 +148,7 @@ Gustavo é Sênior Staff na Zup Innovation ([ZUP.com.br][zup]) e Professor Adjun
 19:00 - 20:15
 
 ##### Local:
-Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar).
+Auditório da UDESC Alto Vale (bloco Imbuia, 3º andar).
 
 ##### Anfitrião: 
 Prof. Dr. [Fernando dos Santos][fds] (UDESC)
@@ -149,7 +172,7 @@ Damiana Costa, com sua trajetória e experiência em desenvolvimento _backend_, 
 20:45 - 22:00
 
 ##### Local:
-Auditório-Hall da UDESC Alto Vale (bloco Imbuia, 3º andar)
+Auditório da UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitriã:
 Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
@@ -171,3 +194,5 @@ Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 [mdvi]: https://meninasdigitaisval.wixsite.com/meninasdigitais
 [lpak]: https://www.linkedin.com/in/luciana-pereira-de-ara%C3%BAjo-0b74b424
 [lza]: https://www.linkedin.com/in/larissa-antunes-b30ba1238
+[abf]: http://lattes.cnpq.br/8802811081063077
+[vds]: http://lattes.cnpq.br/9897618056971079
