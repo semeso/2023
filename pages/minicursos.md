@@ -27,6 +27,11 @@ Descubra como o framework Scrum é utilizado para maximizar resultados, reduzir 
 ##### Local:
 Sala 14
 
+##### Material:
+<img class="img-responsive" src="{{site.urlimg}}pdf-icon.png"/>
+<a href="{{site.url}}/materiais/minicurso-scrum-fernando-borguesan-slides.pdf">Slides</a>
+
+
 ##### Ministrante:
 
 ###### [Fernando Borguesan][fb] (@HOLE.TI e Itaú Unibanco)
@@ -127,7 +132,7 @@ Laboratório 3
 ##### Ministrante:
 
 ###### [Felipe Lana Machado][flm] ()
-<img class="img-responsive" src="{{site.urlimg}}foto-felipe-lana.jpg"/>
+<img class="img-responsive" src="{{site.url}}foto-felipe-lana.jpg"/>
 
 _Machine Learning Engineer_, _Data Scientist_, _MLOps_.
 

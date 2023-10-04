@@ -150,6 +150,11 @@ Gustavo é Sênior Staff na Zup Innovation ([ZUP.com.br][zup]) e Professor Adjun
 ##### Local:
 Auditório da UDESC Alto Vale (bloco Imbuia, 3º andar).
 
+##### Material:
+<img class="img-responsive" src="{{site.urlimg}}pdf-icon.png"/>
+<a href="https://speakerdeck.com/gustavopinto/5-coisas-que-todo-dev-deveria-saber-para-criar-aplicacoes-com-genai">Slides</a>
+
+
 ##### Anfitrião: 
 Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
