@@ -37,6 +37,21 @@ Prof. Dr. [Paulo Roberto Farah][prf]
 
 Acadêmica [Mariana Lino da Silva][mls]
 
+Acadêmico [Mateus Gabardo Lemos][mgl]
+
+Acadêmica [Aline Rodrigues Santos][ars]
+
+Acadêmica Danieli Maria Batista
+
+Acadêmico Henrique Pereira Ehing
+
+Acadêmico Gabriel Oliveira Pimenta
+
+Acadêmica [Ana Fábia Coelho dos Santos][afcs]
+
+Acadêmica [Nathália Acordi da Silva][nas]
+
+
 
 [fds]: http://lattes.cnpq.br/9532186865794326
 [mhf]: http://lattes.cnpq.br/2665316828133413
@@ -47,5 +62,9 @@ Acadêmica [Mariana Lino da Silva][mls]
 [mgf]: http://lattes.cnpq.br/9540472751590233
 [ps]: http://lattes.cnpq.br/3929824514680056
 [pm]: http://lattes.cnpq.br/2530478080816147
-[prf]:http://lattes.cnpq.br/8515153063852772
-[mls]:https://www.linkedin.com/in/mariana-lino-da-silva-856224236/
+[prf]: http://lattes.cnpq.br/8515153063852772
+[mls]: https://www.linkedin.com/in/mariana-lino-da-silva-856224236/
+[mgl]: https://www.linkedin.com/in/mateus-gabardo-lemos-232a97a7/
+[ars]: http://lattes.cnpq.br/3007360492302094
+[afcs]: https://www.linkedin.com/in/ana-f%C3%A1bia-coelho-dos-santos-12475624b/
+[nas]: https://www.linkedin.com/in/nath%C3%A1lia-acordi-0a564b223/
