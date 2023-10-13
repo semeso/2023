@@ -9,11 +9,11 @@ header:
    image_fullwidth: "banner-site.jpg"
 ---
 
-As fotos do SEMESO 2023 estão disponiveis neste link: [https://drive.google.com/drive/folders/1GGkHdfy8zXkMURvLeJXjCQ9gSMfFf_tb][fotos]
+As fotos do SEMESO 2023 estão disponiveis neste link: [https://drive.google.com/drive/folders/1uwxX6YLLL5trdJpPGDhqsT_3BuqNy_FD][fotos]
 
 
 
 
 
-[fotos]: https://drive.google.com/drive/folders/1GGkHdfy8zXkMURvLeJXjCQ9gSMfFf_tb
+[fotos]: https://drive.google.com/drive/folders/1uwxX6YLLL5trdJpPGDhqsT_3BuqNy_FD
 
