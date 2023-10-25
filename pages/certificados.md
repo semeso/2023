@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Certificados de Participação"
+title: "Certificados"
 meta_title: "SEMESO 2023"
 subheadline: "SEMESO 2023 - 25 a 28/9 - UDESC Alto Vale"
 teaser: "X Seminário de Engenharia de Software"
@@ -9,27 +9,42 @@ header:
 permalink: "/certificados/"
 ---
 
-Serão emitidos certificados para participantes de palestras e minicursos. 
+Foram emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
 
-**Atenção** para os critérios de emissão de certificados, descritos a seguir.
+**Atenção** para os critérios de emissão de certificados, descritos mais abaixo.
+
+
+### Acesso aos Certificados
+
+Os certificados podem ser acessados através do link: [https://certificados.sistemas.udesc.br/Certificados/MeusCertificados][certificados] 
+
+O participante que **possui vínculo** com a UDESC deve clicar na opção **Acesso via ID UDESC para listar certificados**.
+
+O participante que **NÃO possui vínculo** com a UDESC, deve seguir o passo a passo descrito no site e informar o **CPF** quando for solicitado o número do documento.
 
 
 ### Palestras
 
-Será emitido um certificado de **participação em evento** para o participante que **registrar presença** em **todas** as palestras das **duas noites** do evento. 
+Foi emitido um certificado de **participação no SEMESO 2023** para o participante que **registrou presença** nas **palestras** do evento.  
 
-Detalhes sobre como a presença será registrada serão anunciados no início de cada palestra.
+A presença foi registrada através da assinatura do participante em listas de frequência, que foram circuladas em cada palestra.
 
-Este certificado de **participação em evento** poderá ser utilizado para validar atividades complementares. 
+A **carga horária** do certificado é proporcional às palestras que o participante **registrou presença**.
+
+O certificado pode ser utilizado para validar atividades complementares. 
 
 
 ### Minicursos
 
-Será emitido um certificado para cada minicurso em que o participante registrar **100% de frequência**.  Os instrutores serão orientados a realizar **chamadas nominais** durante a realização do minicurso para registrar a frequência.
+Foi emitido um certificado para cada minicurso em que o participante registrou **100% de frequência**.  Os instrutores foram orientados a realizar **chamadas nominais** durante a realização do minicurso para registrar a frequência.
 
-O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
-
+O participante inscrito que **não compareceu** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
 Os certificados dos minicursos poderão ser utilizados para validar atividades complementares.
 
+
+
+
+
+[certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados
 
