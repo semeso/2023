@@ -16,7 +16,7 @@ Foram emitidos certificados eletrônicos para os **participantes** de palestras 
 
 ### Acesso aos Certificados
 
-Os certificados podem ser acessados através do link: [https://certificados.sistemas.udesc.br/Certificados/MeusCertificados][certificados] 
+Os certificados devem ser baixados através do sistema de certificados da UDESC, disponível em [https://certificados.sistemas.udesc.br/Certificados/MeusCertificados][certificados] 
 
 O participante que **possui vínculo** com a UDESC deve clicar na opção **Acesso via ID UDESC para listar certificados**.
 
